@@ -89,8 +89,7 @@ function draw() {
 	background(255);
 	drawAlterEgo();
 	drawStillife();
-	// console.log(portrait[randomPortrait], lefteye[randomLefteye], righteye[randomRighteye], nose[randomNose], mouth[randomMouth], coffee[randomCoffee], alterEgo[randomAlterEgo]);
-	console.log(randomPortrait, randomLefteye, randomRighteye, randomNose, randomMouth, randomCoffee, randomAlterEgo);
+	// console.log(randomPortrait, randomLefteye, randomRighteye, randomNose, randomMouth, randomCoffee, randomAlterEgo);
 }
 	function keyPressed() {
 		randomPortrait = floor(random(76));
