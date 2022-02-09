@@ -4,4 +4,4 @@
 
 Fragments of Fancy | p5JS Still Life
 Thanks to Casey Reas and Harvey Moon.
-Desma 171 | Winter 2020 | UCLA Design Media Arts
+Desma 171 | Winter 2022 | UCLA Design Media Arts
